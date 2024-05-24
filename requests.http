@@ -1,0 +1,10 @@
+### Criação de Usuário
+POST http://localhost:8080/auth/signup
+Content-Type: application/json
+
+{
+  "email": "meusegundousuario@email.com",
+  "password": "minhasenha"
+}
+
+###
